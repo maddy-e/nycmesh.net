@@ -370,10 +370,11 @@ We have a lot on our to-do list and everyone is a volunteer. We welcome new idea
 
 Our community on [Slack](https://slack.nycmesh.net) is a great forum for new ideas, and you can also start a conversation with long-term and new members at one of our [meetups](https://www.meetup.com/nycmesh/).
 
+[Slack](https://slack.nycmesh.net): https://slack.nycmesh.net
+
 ### <a name="co-ops"></a>What about co-ops?
 
-Co-ops are great!
+Co-ops are great! And we fixed this too.
 
 <font size="3"> <a href="#top">&#8598; Back to top</a> </font>
 
-[Slack](https://slack.nycmesh.net): https://slack.nycmesh.net
